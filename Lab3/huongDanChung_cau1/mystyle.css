@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0px;
+}
+h3 {
+    color: blue;
+}
+table, tr, td {
+    border: 1px solid rgb(234, 20, 148);
+    background-color: rgb(226, 127, 127);
+    border-collapse: collapse;
+    padding: 2px 5px 0px 0px;
+}
+input[type="submit"] {
+    border-radius: 10px;
+}
+
+.submit {
+    text-align: center;
+}

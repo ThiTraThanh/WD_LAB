@@ -1,0 +1,11 @@
+table, th, tr, td {
+    border: 1px solid rgb(231, 71, 22);
+    border-collapse: collapse;
+    background-color: orange;
+}
+h2 {
+    color: rgb(38, 38, 51);
+}
+h3 {
+    color: blue;
+}

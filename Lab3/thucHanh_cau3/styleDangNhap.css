@@ -1,0 +1,9 @@
+body {
+    background-color:  #e7b6b6;
+}
+.submit {
+    text-align: center;
+}
+input[type='submit']{
+    border-radius: 10px;
+}

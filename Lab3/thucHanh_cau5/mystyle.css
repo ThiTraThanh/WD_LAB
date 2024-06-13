@@ -1,0 +1,21 @@
+h3 {
+    color: blue;
+}
+input[type='text']{
+    width: 70px;
+}
+input[type='submit']{
+    width: 100px;
+    border-radius: 25px;
+}
+table, tr, td {
+    border: 2px solid rgb(179, 37, 222);
+    border-collapse: collapse;
+    background-color: rgb(189, 169, 227);
+    padding-right:50px;
+}
+.container {
+    width: 200px;
+    height: 100px;
+    border: 1px solid gray;
+}

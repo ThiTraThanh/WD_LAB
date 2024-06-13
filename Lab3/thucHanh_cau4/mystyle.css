@@ -1,0 +1,6 @@
+body {
+    background-color: orange;
+}
+input[type='submit'] {
+    border-radius: 20px;
+}
