@@ -38,7 +38,7 @@ git branch: xem các nhánh đã được tạo ở kho cục bộ
 
 4. Merge
 
-- git checkoout master: trước khi gộp nhánh thì phải về nhánh chính
+- git checkout master: trước khi gộp nhánh thì phải về nhánh chính
 - git merge <tên nhánh>: gộp nhánh đó vào nhánh chính
 
 5. Pull
