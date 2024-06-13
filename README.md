@@ -32,7 +32,7 @@ git log: dùng để show ra tất cả các commit đã được thực hiện 
 
 3. Branches
 
-git branch checkout -b <tên nhánh mới> : tạo nhánh mới và truy cập nhánh đó luôn (tuy nhiên chỉ ở kho cục bộ, khi nào push lên kho online thì mới thấy được nhánh đó trên github)
+git checkout -b <tên nhánh mới> : tạo nhánh mới và truy cập nhánh đó luôn (tuy nhiên chỉ ở kho cục bộ, khi nào push lên kho online thì mới thấy được nhánh đó trên github)
 
 git branch: xem các nhánh đã được tạo ở kho cục bộ
 
